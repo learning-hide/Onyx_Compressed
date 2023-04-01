@@ -10194,7 +10194,6 @@
 \Onyx\Plugins\SkyCreatorPlugin\Content\Materials\VolumetricClouds\M_SC_VolumetricClouds_GC1_MSAOC0.uexp.7z|34540|7496
 \Onyx\Plugins\SkyCreatorPlugin\Content\Textures\VolumetricClouds\T_CloudShapeNoise.uasset.7z|685|501
 \Onyx\Content\Witch_Animation_Set\Anims\Skeleton\AimStart_UpDownLoop.uexp.7z|201|271
-\Onyx\Content\MainLobby\WidgetBp\itemRenders\Bows\Heffken’s_Bone_Tendon_Bow.uasset.7z|792|554
 \Onyx\Content\Witch_Animation_Set\Anims\Animation\skill20.uasset.7z|1222|616
 \Onyx\Plugins\SkyCreatorPlugin\Content\Materials\Curves\Curve_SC_StarTwinkle_Color.uexp.7z|759|287
 \Onyx\Plugins\SkyCreatorPlugin\Content\WeatherPresets\Weather_Default.uexp.7z|86|234
