@@ -10275,7 +10275,6 @@
 \Onyx\Plugins\SkyCreatorPlugin\Content\Materials\M_SC_Basic.uasset.7z|688|480
 \Onyx\Plugins\SkyCreatorPlugin\Content\Materials\VolumetricClouds\M_SC_VolumetricClouds.uexp.7z|34540|7491
 \Onyx\Saved\Config\Windows\DeviceProfiles.ini.7z|2|152
-\Onyx\Content\MainLobby\WidgetBp\itemRenders\Bows\Heffken’s_Bone_Tendon_Bow.uexp.7z|17934957|1698281
 \Onyx\Content\Witch_Animation_Set\Anims\Animation\walk_strafe_left.uasset.7z|1240|642
 \Onyx\Plugins\SkyCreatorPlugin\Content\Materials\Functions\MF_SC_VolumetricClouds_ConservativeDensity.uasset.7z|709|534
 \Onyx\Content\UE-Content\StylizedStaves\Textures_Staves\staff4\4_3\T_staff4_3_RO1.uasset.7z|689|492
